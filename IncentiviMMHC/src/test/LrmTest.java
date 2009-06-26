@@ -1,6 +1,5 @@
 package test;
 
-import net.sourceforge.jnlp.cache.UpdatePolicy;
 import localReputationManager.RepCollection;
 import localReputationManager.RepUpdater;
 
