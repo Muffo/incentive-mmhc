@@ -74,18 +74,20 @@ public class StringTxClient {
 			
 			while ((txString = stdIn.readLine()) != null) {
 				
-				if (txString.equalsIgnoreCase("exit"))
-				{
-					System.out.print("Ricevuto \"exit\": chiudo la socket ed esco");
-					localSocket.setSoLinger(true, 3000);
-					localSocket.shutdownOutput();
-					localSocket.close();
-					System.exit(0);
-				}
+				
 				
 				// trasmissione della stringa
 				try {
 					outSock.writeUTF(txString);
+					
+					if (txString.equalsIgnoreCase("exit"))
+					{
+						System.out.print("Ricevuto \"exit\": chiudo la socket ed esco");
+						//localSocket.setSoLinger(true, 3000);
+						localSocket.shutdownOutput();
+						localSocket.close();
+						System.exit(0);
+					}
 				} catch (Exception e) {
 					System.out.println("Problemi nell'invio di " + txString + ": ");
 					e.printStackTrace();
