@@ -1,4 +1,4 @@
-package transmissionTest;
+package test;
 
 import java.net.*;
 import java.io.*;

@@ -8,7 +8,7 @@ public class RepLevel {
 	private static final int LowRepThreshold = 2000;
 	private static final int HighRepThreshold = 4000;
 
-	private static final int DefaultRep = 4000;
+	private static final int DefaultRep = 3000;
 
 	private int _level;
 
@@ -20,7 +20,7 @@ public class RepLevel {
 		setLevel(level);
 	}
 
-	private void setLevel(int level) {
+	public void setLevel(int level) {
 		if (level > MaxRep)
 			_level = MaxRep;
 
@@ -43,4 +43,8 @@ public class RepLevel {
 		return (_level > HighRepThreshold);
 	}
 
+	public String toString()
+	{
+		return "" + _level;
+	}
 }
