@@ -51,7 +51,7 @@ public class RepCollection {
 	}
 
 	public void AddNode(String nodeId, RepLevel hRep, RepLevel cRep) {
-		if (nodeId.isEmpty() || nodeId == null)
+		if (nodeId.equalsIgnoreCase("") || nodeId == null)
 			throw new IllegalArgumentException(
 					"nodeId.isEmpty() || nodeId == null");
 
