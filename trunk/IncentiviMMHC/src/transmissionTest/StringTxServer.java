@@ -9,7 +9,6 @@ public class StringTxServer {
 
 	public static void main(String[] args) throws IOException {
 
-		// Porta sulla quale ascolta il server
 		int port = -1;
 
 		/* controllo argomenti */
