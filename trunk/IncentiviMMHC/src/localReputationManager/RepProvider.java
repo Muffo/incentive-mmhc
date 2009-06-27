@@ -16,8 +16,6 @@ public class RepProvider {
 
 	public static RepLevel getAvgReputation(String nodeId) {
 		RepCollection repCollection = RepCollection.getInstance();
-		
-		
 
 		RepLevel hRep;
 		RepLevel cRep;
@@ -34,5 +32,10 @@ public class RepProvider {
 	public static boolean isSelfishNode(String nodeId) {
 		return getAvgReputation(nodeId).isLowRep();
 	}
+	
+	public static boolean isTrustedNode(String nodeId) {
+		return getAvgReputation(nodeId).isHighRep();
+	}
+
 
 }
