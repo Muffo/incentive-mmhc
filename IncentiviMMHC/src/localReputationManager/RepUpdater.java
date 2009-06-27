@@ -13,7 +13,7 @@ public class RepUpdater implements Runnable {
 
 	private static final double Alpha = 0.3;
 
-	private static final long updateCurrentDelay = 2000;
+	private static final long updateCurrentDelay = 5000;
 	private static final long updateHistoricalDelay = 10000;
 
 	private int _updateCount = 0;
@@ -39,24 +39,37 @@ public class RepUpdater implements Runnable {
 				continue;
 			}
 
+			UpdateCurrents();
+
 			_updateCount++;
 
-			Enumeration<String> nodeIds = ConnectionNotifier.getIdentifiers();
-			while (nodeIds.hasMoreElements()) {
-				String nodeId = (String) nodeIds.nextElement();
-				int status = ConnectionNotifier.getStatusOf(nodeId);
-				UpdateCurrentRep(nodeId, status);
-				if (_updateCount == _updateHistoricalCountDelay)
-					UpdateHistoricalRep(nodeId);
-			}
+			if (_updateCount == _updateHistoricalCountDelay) {
+				UpdateHistoricals();
 
+			}
 			if (_updateCount == _updateHistoricalCountDelay)
 				_updateCount = 0;
 		}
 	}
 
+	private void UpdateHistoricals() {
+		Enumeration nodeIds = _repCollection.getIdentifiers();
+		while (nodeIds.hasMoreElements()) {
+			String nodeId = (String) nodeIds.nextElement();
+			UpdateHistoricalRep(nodeId);
+		}
+	}
+
+	private void UpdateCurrents() {
+		Enumeration<String> nodeIds = ConnectionNotifier.getIdentifiers();
+		while (nodeIds.hasMoreElements()) {
+			String nodeId = (String) nodeIds.nextElement();
+			int status = ConnectionNotifier.getStatusOf(nodeId, true);
+			UpdateCurrentRep(nodeId, status);
+		}
+	}
+
 	public void UpdateCurrentRep(String nodeId, int status) {
-	
 
 		if (!_repCollection.containsNode(nodeId)) {
 			_repCollection.AddNode(nodeId);
@@ -89,6 +102,8 @@ public class RepUpdater implements Runnable {
 
 		hRep.setLevel((int) Math.round(Alpha * cRep.getLevel() + (1 - Alpha)
 				* hRep.getLevel()));
+
+		_repCollection.SaveToFile();
 	}
 
 }

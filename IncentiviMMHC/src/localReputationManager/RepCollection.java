@@ -1,13 +1,23 @@
 package localReputationManager;
 
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.Enumeration;
 
 import com.sun.org.apache.xalan.internal.xsltc.runtime.Hashtable;
+
+import connectionStatusManager.ConnectionNotifier;
 
 public class RepCollection {
 
 	// private Dictionary<String, RepLevel> _cReputations;
 	// private Dictionary<String, RepLevel> _hReputations;
+
+	private static final String fileName = "reputation.txt";
 
 	private static RepCollection _instance = new RepCollection();
 
@@ -17,6 +27,10 @@ public class RepCollection {
 	private RepCollection() {
 		_cReputations = new Hashtable();
 		_hReputations = new Hashtable();
+		
+		LoadFromFile();
+		
+		System.out.println(this);
 	}
 
 	public static RepCollection getInstance() {
@@ -25,6 +39,11 @@ public class RepCollection {
 
 	public boolean containsNode(String nodeId) {
 		return (_hReputations.containsKey(nodeId));
+	}
+	
+	public Enumeration getIdentifiers()
+	{
+		return _hReputations.keys();
 	}
 
 	public RepLevel getHRep(String nodeId) {
@@ -84,26 +103,48 @@ public class RepCollection {
 		return result.toString();
 	}
 
-	// public void setHRep(String nodeId, RepLevel reputation) {
-	// if (reputation == null)
-	// throw new IllegalArgumentException("reputation == null");
-	//
-	// _hReputations.put(nodeId, reputation);
-	//
-	// if (!_cReputations.containsKey(nodeId))
-	// _cReputations.put(nodeId, reputation);
-	// }
-	//	
-	// public void setCRep(String nodeId, RepLevel reputation) {
-	// if (reputation == null)
-	// throw new IllegalArgumentException("reputation == null");
-	//
-	// // da valutare...
-	// if (!_hReputations.containsKey(nodeId))
-	// throw new IllegalArgumentException(
-	// "!_hReputations.containsKey(nodeId)");
-	//
-	// _cReputations.put(nodeId, reputation);
-	// }
+	private void LoadFromFile()  {
+		BufferedReader reader;
+		try {
+			reader = new BufferedReader(new FileReader(fileName));
+		} catch (FileNotFoundException e1) {
+			return;
+		}
+		
+		String nodeId = null;
+		try {
+			while ((nodeId = reader.readLine()) != null)
+			{
+				int repLevel = Integer.parseInt(reader.readLine());
+				RepLevel hRep = new RepLevel(repLevel);
+				RepLevel cRep = new RepLevel(repLevel);
+				
+				AddNode(nodeId, hRep, cRep);
+			}
+		} catch (IOException e) {
+			return;
+		}	
+	}
 
+	public void SaveToFile() {
+		BufferedWriter writer;
+		try {
+			writer = new BufferedWriter(new FileWriter(fileName, false));
+
+			Enumeration keys = getIdentifiers();
+			while (keys.hasMoreElements()) {
+				String nodeId = (String) keys.nextElement();
+				RepLevel hRep = getHRep(nodeId);
+
+				writer.write(nodeId + "\n");
+				writer.write(hRep.toString() + "\n");
+			}
+			
+			writer.close();
+		} catch (IOException e) {
+			System.out.println("Errore scrittura sul file result.txt");
+			e.printStackTrace();
+		}
+
+	}
 }

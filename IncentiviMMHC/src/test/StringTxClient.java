@@ -3,111 +3,77 @@ package test;
 import java.net.*;
 import java.io.*;
 
-public class StringTxClient {
+import connectionStatusManager.ConnectionNotifier;
 
-	public static void main(String[] args) throws IOException {
-		InetAddress remoteAddr = null;
-		int remotePort = -1;
+public class StringTxClient implements Runnable {
 
-		/* controllo argomenti */
+	private String _remoteAddr = null;
+	private int _remotePort = -1;
+
+	private InetAddress _relayAddr = null;
+	private int _relayPort = -1;
+
+	public StringTxClient(String remoteAddr, int remotePort, String relayAddr,
+			int relayPort) throws UnknownHostException {
+		_remoteAddr = remoteAddr;
+		_remotePort = remotePort;
+
+		_relayAddr = InetAddress.getByName(relayAddr);
+		_relayPort = relayPort;
+	}
+
+	public void run() {
+
 		try {
-			if (args.length == 2) {
-				remoteAddr = InetAddress.getByName(args[0]);
-				remotePort = Integer.parseInt(args[1]);
-			} else {
-				System.out.println("Usage: java StringTxClient serverAddr serverPort");
-				System.exit(1);
-			}
-		} // try
-		catch (Exception e) {
-			System.out.println("Problemi, i seguenti: ");
-			e.printStackTrace();
-			System.out
-					.println("Usage: java StringTxClient serverAddr serverPort");
-			System.exit(2);
-		}
 
-		// oggetti utilizzati dal client per la comunicazione
-		Socket localSocket = null;
-		InetSocketAddress remoteSocketAddress = null;
-		DataOutputStream outSock = null;
-
-		
-		
-		try {
-			// creazione socket
-			try {
-				remoteSocketAddress = new InetSocketAddress(remoteAddr,	remotePort);
-				localSocket = new Socket();
-
-				// setto il timeout per non bloccare indefinitivamente
-				// il client
-				localSocket.connect(remoteSocketAddress, 2000);
-				localSocket.setSoTimeout(5000);
-				System.out.println("Creata la socket: " + localSocket);
-			} catch (SocketTimeoutException ste) {
-				System.out.println("Timeout scattato durante la creazione della socket.");
-				ste.printStackTrace();
-				System.exit(3);
-				
-			} catch (Exception e) {
-				System.out.println("Problemi nella creazione della socket: ");
-				e.printStackTrace();
-				System.exit(3);
-			}
-			
-			// creazione stream di input/output su socket
-			try {
-				outSock = new DataOutputStream(localSocket.getOutputStream());
-			} catch (IOException e) {
-				System.out.println("Problemi nella creazione degli stream su socket: ");
-				e.printStackTrace();
-				System.exit(3);
-				// il client continua l'esecuzione riprendendo
-				// dall'inizio del ciclo
-			}
-			
 			// gestione input da console dell'utente
-			BufferedReader stdIn = new BufferedReader(new InputStreamReader(System.in));
+			BufferedReader stdIn = new BufferedReader(new InputStreamReader(
+					System.in));
 			String txString = null;
-			System.out.print("\"exit\" per uscire, oppure immetti stringa da trasmettere: ");
+			System.out.println("Inserisci uno dei seguenti comandi: ");
+			System.out.println("[Stringa] - testo da trasmettere");
+			System.out.println("[int] - numero ripetizioni");
+			System.out.println("exit - esci");
 			
+
+			System.out.print("Comando: ");
+
 			while ((txString = stdIn.readLine()) != null) {
-				
-				
-				
-				// trasmissione della stringa
-				try {
-					outSock.writeUTF(txString);
-					
-					if (txString.equalsIgnoreCase("exit"))
-					{
-						System.out.print("Ricevuto \"exit\": chiudo la socket ed esco");
-						//localSocket.setSoLinger(true, 3000);
-						localSocket.shutdownOutput();
-						localSocket.close();
-						System.exit(0);
-					}
-				} catch (Exception e) {
-					System.out.println("Problemi nell'invio di " + txString + ": ");
-					e.printStackTrace();
-					System.out.print("\"exit\" per uscire, oppure immetti stringa da trasmettere: ");
-					// il client continua l'esecuzione riprendendo dall'inizio del ciclo
-					continue;
+
+				if (txString.equalsIgnoreCase("exit")) {
+					System.out.print("Ricevuto \"exit\":  esco");
+					return;
 				}
 
-				// tutto ok, pronto per nuova richiesta
-				System.out.print("\"exit\" per uscire, oppure immetti stringa da trasmettere: ");
+				int repeat = 0;
 
+				try {
+					repeat = Integer.parseInt(txString);
+
+					for (int i = 0; i < repeat; i++) {
+						String result = sendString("pippo");
+
+						System.out.println("Risultato: " + result);
+						if (result.equalsIgnoreCase("ok"))
+							ConnectionNotifier.notifyResult("1", true);
+						else
+							ConnectionNotifier.notifyResult("1", false);
+					}
+				} catch (NumberFormatException e) {
+					String result = sendString(txString);
+
+					System.out.println("Risultato: " + result);
+					if (result.equalsIgnoreCase("ok"))
+						ConnectionNotifier.notifyResult("1", true);
+					else
+						ConnectionNotifier.notifyResult("1", false);
+				}
+
+				System.out.print("Comando: ");
 
 			}// while
 			System.out.println("Termino...");
-		}
-		
-		// qui catturo le eccezioni non catturate all'interno del while
-		// quali per esempio la caduta della connessione con il server
-		// in seguito alle quali il client termina l'esecuzione
-		catch (Exception e) {
+		} catch (Exception e) {
 			System.err.println("Errore irreversibile, il seguente: ");
 			e.printStackTrace();
 			System.err.println("Chiudo!");
@@ -115,5 +81,71 @@ public class StringTxClient {
 		}
 
 	} // main
+
+	public String sendString(String txString) throws IOException {
+
+		Socket localSocket = null;
+		InetSocketAddress relaySocketAddress = null;
+		DataOutputStream outSock = null;
+		DataInputStream inSock = null;
+
+		String result = null;
+
+		// creazione socket
+		try {
+			// relaySocketAddress = new InetSocketAddress(_relayAddr,
+			// _relayPort);
+			relaySocketAddress = new InetSocketAddress(_remoteAddr, _remotePort);
+			localSocket = new Socket();
+
+			localSocket.connect(relaySocketAddress, 2000);
+			localSocket.setSoTimeout(5000);
+			System.out.println("Creata la socket: " + localSocket);
+		} catch (SocketTimeoutException ste) {
+			// ste.printStackTrace();
+			return "Timeout scattato durante la creazione della socket.";
+		} catch (Exception e) {
+			e.printStackTrace();
+			return "Problemi nella creazione della socket";
+		}
+
+		// creazione stream di input/output su socket
+		try {
+			outSock = new DataOutputStream(localSocket.getOutputStream());
+			inSock = new DataInputStream(localSocket.getInputStream());
+		} catch (IOException e) {
+			localSocket.close();
+			// e.printStackTrace();
+			return "Problemi nella creazione degli stream su socket";
+		}
+
+		// trasmissione della stringa
+		try {
+			outSock.writeUTF(_remoteAddr);
+			// outSock.writeInt(_remotePort);
+			// outSock.writeUTF(txString);
+
+		} catch (Exception e) {
+			localSocket.close();
+			// e.printStackTrace();
+			return "Problemi nell'invio di " + txString;
+		}
+
+		// ricezione risultato
+		try {
+			result = inSock.readUTF();
+		} catch (SocketTimeoutException ste) {
+			localSocket.close();
+			// ste.printStackTrace();
+			return "Timeout scattato durante l'attesa del risultato.";
+		} catch (Exception e) {
+			localSocket.close();
+			// e.printStackTrace();
+			return "Problemi nella ricezione del risultato";
+		}
+
+		localSocket.close();
+		return result;
+	}
 
 }

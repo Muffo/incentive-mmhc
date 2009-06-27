@@ -41,15 +41,19 @@ public class ConnectionNotifier {
 	public static int getStatusOf(String nodeId) {
 
 		if (!_status.containsKey(nodeId))
-			throw new IllegalArgumentException("!_status.containsKey(nodeId)");
+			// throw new
+			// IllegalArgumentException("!_status.containsKey(nodeId)");
+			return 0;
 
 		return (Integer) _status.get(nodeId);
 
 	}
 
-	public static int getStatusOfAndReset(String nodeId) {
+	public static int getStatusOf(String nodeId, boolean reset) {
 		int result = getStatusOf(nodeId);
-		_status.put(nodeId, new Integer(0));
+
+		if (reset)
+			_status.put(nodeId, new Integer(0));
 
 		return result;
 	}
