@@ -1,38 +1,46 @@
 package test;
 
+import connectionStatusManager.ConnectionNotifier;
 import localReputationManager.RepCollection;
+import localReputationManager.RepProvider;
 import localReputationManager.RepUpdater;
 
 public class LrmTest {
 
-	public static void main(String[] args) {
+	public static final String idTest = "10";
 
+	public static void main(String[] args) throws InterruptedException {
+
+		RepUpdater repUpdater = new RepUpdater();
+		Thread repUpdaterThread = new Thread(repUpdater);
+		
+		repUpdaterThread.start();
+		
 		RepCollection repCollection = RepCollection.getInstance();
 
-		repCollection.AddNode("192.168.0.5");
-		repCollection.AddNode("192.168.0.6");
-		repCollection.AddNode("192.168.0.7");
-		repCollection.AddNode("192.168.0.8");
+		
 
+		for (int i = 0; i < 20; i++) {
+		
+			ConnectionNotifier.notifyResult(idTest, false);
+			Thread.sleep(1000);
+			
+			printStatus(repCollection);
+		}
+
+		for (int i = 0; i < 10; i++) {
+				ConnectionNotifier.notifyResult(idTest, true);
+			
+			Thread.sleep(1000);
+			printStatus(repCollection);
+		}
+
+	}
+
+	private static void printStatus(RepCollection repCollection) {
+		//System.out.println("**********");
 		System.out.println(repCollection);
-
-		for (int i = 0; i < 2; i++) {
-
-			for (int k = 0; k < 100; k++)
-				RepUpdater.UpdateRep("192.168.0.5", true);
-
-			System.out.println("\n***************\n");
-			System.out.println(repCollection);
-		}
-
-		for (int i = 0; i < 2; i++) {
-
-			for (int k = 0; k < 100; k++)
-				RepUpdater.UpdateRep("192.168.0.5", false);
-
-			System.out.println("\n***************\n");
-			System.out.println(repCollection);
-		}
-
+		System.out.println("Rep " + RepProvider.getAvgReputation(idTest)
+				+ " / selfish: " + RepProvider.isSelfishNode(idTest) + " / ConnNotifierStatus: " + ConnectionNotifier.getStatusOf(idTest));
 	}
 }

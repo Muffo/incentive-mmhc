@@ -23,7 +23,7 @@ public class RepCollection {
 		return _instance;
 	}
 
-	public boolean containsKey(String nodeId) {
+	public boolean containsNode(String nodeId) {
 		return (_hReputations.containsKey(nodeId));
 	}
 
@@ -55,7 +55,7 @@ public class RepCollection {
 			throw new IllegalArgumentException(
 					"nodeId.isEmpty() || nodeId == null");
 
-		if (containsKey(nodeId))
+		if (containsNode(nodeId))
 			throw new IllegalArgumentException("containsKey(nodeId)");
 
 		if (hRep == null || cRep == null)
@@ -78,6 +78,8 @@ public class RepCollection {
 
 			result.append("[ " + nodeId + ", " + hRep + ", " + cRep + " ]\n");
 		}
+		if (result.length() > 0)
+			result.deleteCharAt(result.length() - 1);
 
 		return result.toString();
 	}
