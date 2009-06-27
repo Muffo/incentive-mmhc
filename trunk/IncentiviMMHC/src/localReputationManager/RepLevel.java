@@ -1,6 +1,6 @@
 package localReputationManager;
 
-public class RepLevel {
+public class RepLevel implements Comparable<RepLevel>{
 
 	private static final int MaxRep = 6000;
 	private static final int MinRep = 0;
@@ -46,5 +46,10 @@ public class RepLevel {
 	public String toString()
 	{
 		return "" + _level;
+	}
+
+	public int compareTo(RepLevel reputation) {
+		return this.getLevel() - reputation.getLevel();
+		
 	}
 }
