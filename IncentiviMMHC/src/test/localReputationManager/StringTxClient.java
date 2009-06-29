@@ -1,4 +1,4 @@
-package test;
+package test.localReputationManager;
 
 import java.net.*;
 import java.io.*;
@@ -13,8 +13,8 @@ public class StringTxClient implements Runnable {
 	private InetAddress _relayAddr = null;
 	private int _relayPort = -1;
 
-	public StringTxClient(String remoteAddr, int remotePort, String relayAddr,
-			int relayPort) throws UnknownHostException {
+	public StringTxClient(String relayAddr, int relayPort, String remoteAddr,
+			int remotePort) throws UnknownHostException {
 		_remoteAddr = remoteAddr;
 		_remotePort = remotePort;
 
@@ -93,9 +93,9 @@ public class StringTxClient implements Runnable {
 
 		// creazione socket
 		try {
-			// relaySocketAddress = new InetSocketAddress(_relayAddr,
-			// _relayPort);
-			relaySocketAddress = new InetSocketAddress(_remoteAddr, _remotePort);
+			relaySocketAddress = new InetSocketAddress(_relayAddr,
+			 _relayPort);
+
 			localSocket = new Socket();
 
 			localSocket.connect(relaySocketAddress, 2000);
@@ -122,8 +122,8 @@ public class StringTxClient implements Runnable {
 		// trasmissione della stringa
 		try {
 			outSock.writeUTF(_remoteAddr);
-			// outSock.writeInt(_remotePort);
-			// outSock.writeUTF(txString);
+			outSock.writeInt(_remotePort);
+			outSock.writeUTF(txString);
 
 		} catch (Exception e) {
 			localSocket.close();
