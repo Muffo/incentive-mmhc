@@ -1,13 +1,21 @@
-package test;
+package test.localReputationManager;
 
 import java.io.*;
 import java.net.*;
 
-public class StringTxServer {
+public class StringTxServer implements Runnable {
 
-	public static final int PORT = 54321;
+	private static final int PORT = 54321;
 
-	public static void main(String[] args) throws IOException {
+	private boolean _isSelfish;
+	
+	public StringTxServer(boolean isSelfish)
+	{
+		_isSelfish = isSelfish;
+	}
+	
+
+	public void run() {
 
 		// preparazione socket
 		ServerSocket serverSocket = null;
@@ -25,7 +33,6 @@ public class StringTxServer {
 		}
 		try {
 
-			String rxString;
 			while (true) {
 
 				Socket clientSocket = null;
@@ -36,8 +43,8 @@ public class StringTxServer {
 				try {
 
 					clientSocket = serverSocket.accept();
-					System.out.println("Connessione accettata: " + clientSocket
-							+ "\n");
+					System.out
+							.println("Connessione accettata: " + clientSocket);
 
 				} catch (Exception e) {
 					System.err
@@ -61,7 +68,13 @@ public class StringTxServer {
 
 				}
 
+				String rxString = null;
+				String rxRemoteAddr = null;
+				int rxRemotePort = -1;
+
 				try {
+					rxRemoteAddr = inSock.readUTF();
+					rxRemotePort = inSock.readInt();
 					rxString = inSock.readUTF();
 				} catch (SocketTimeoutException ste) {
 					System.out.println("Timeout scattato: ");
@@ -76,22 +89,28 @@ public class StringTxServer {
 					continue;
 				}
 
-				if (rxString == null) {
+				if (rxString == null || rxRemoteAddr == null
+						|| rxRemotePort < 0) {
 					System.out
 							.println("Problemi nella ricezione della stringa");
 					continue;
 				} else {
-					System.out.println("Stringa ricevuta:" + rxString);
-					try {
-						outSock.writeUTF("ok");
-					} catch (Exception e) {
-						System.out.println("Problemi nell'invio risposta");
-						e.printStackTrace();
-						clientSocket.close();
-						continue;
+					System.out.println("Stringa ricevuta:" + rxString
+							+ ". Simulazione di Inoltro i dati a "
+							+ rxRemoteAddr + ":" + rxRemotePort);
+
+					if (!_isSelfish) {
+						try {
+							outSock.writeUTF("ok");
+						} catch (Exception e) {
+							System.out.println("Problemi nell'invio risposta");
+							e.printStackTrace();
+							clientSocket.close();
+							continue;
+						}
 					}
 				}
-				
+
 				clientSocket.close();
 			} // while (true)
 		}

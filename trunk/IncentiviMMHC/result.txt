@@ -638,3 +638,5595 @@ Rep 3154 / selfish: false / trusted: false / ConnNotifierStatus: 0
 [ 2, 1222, 1222 ]
 [ 1, 3154, 3154 ]
 Rep 3154 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3154, 3154 ]
+Rep 3154 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3154, 3154 ]
+Rep 3154 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3154, 3154 ]
+Rep 3154 / selfish: false / trusted: false / ConnNotifierStatus: 1
+[ 2, 1222, 1222 ]
+[ 1, 3154, 3154 ]
+Rep 3154 / selfish: false / trusted: false / ConnNotifierStatus: 2
+[ 2, 1222, 1222 ]
+[ 1, 3154, 3162 ]
+Rep 3158 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3154, 3162 ]
+Rep 3158 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3154, 3162 ]
+Rep 3158 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3154, 3162 ]
+Rep 3158 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3154, 3162 ]
+Rep 3158 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3156, 3162 ]
+Rep 3159 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3156, 3162 ]
+Rep 3159 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3156, 3162 ]
+Rep 3159 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3156, 3162 ]
+Rep 3159 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3156, 3162 ]
+Rep 3159 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3156, 3162 ]
+Rep 3159 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3156, 3162 ]
+Rep 3159 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3156, 3162 ]
+Rep 3159 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3156, 3162 ]
+Rep 3159 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3156, 3162 ]
+Rep 3159 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3158, 3162 ]
+Rep 3160 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3158, 3162 ]
+Rep 3160 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3158, 3162 ]
+Rep 3160 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3158, 3162 ]
+Rep 3160 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3158, 3162 ]
+Rep 3160 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3158, 3162 ]
+Rep 3160 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3158, 3162 ]
+Rep 3160 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3158, 3162 ]
+Rep 3160 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3158, 3162 ]
+Rep 3160 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3158, 3162 ]
+Rep 3160 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3159, 3162 ]
+Rep 3160 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3159, 3162 ]
+Rep 3160 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3159, 3162 ]
+Rep 3160 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3159, 3162 ]
+Rep 3160 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3159, 3162 ]
+Rep 3160 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3159, 3162 ]
+Rep 3160 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3159, 3162 ]
+Rep 3160 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3159, 3162 ]
+Rep 3160 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3159, 3159 ]
+Rep 3159 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3159, 3159 ]
+Rep 3159 / selfish: false / trusted: false / ConnNotifierStatus: 2
+[ 2, 1222, 1222 ]
+[ 1, 3159, 3159 ]
+Rep 3159 / selfish: false / trusted: false / ConnNotifierStatus: 2
+[ 2, 1222, 1222 ]
+[ 1, 3159, 3159 ]
+Rep 3159 / selfish: false / trusted: false / ConnNotifierStatus: 2
+[ 2, 1222, 1222 ]
+[ 1, 3159, 3167 ]
+Rep 3163 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3159, 3167 ]
+Rep 3163 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3159, 3167 ]
+Rep 3163 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3159, 3167 ]
+Rep 3163 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3159, 3167 ]
+Rep 3163 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3161, 3167 ]
+Rep 3164 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3161, 3167 ]
+Rep 3164 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3161, 3167 ]
+Rep 3164 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3161, 3167 ]
+Rep 3164 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3161, 3167 ]
+Rep 3164 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3161, 3167 ]
+Rep 3164 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3161, 3167 ]
+Rep 3164 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3161, 3167 ]
+Rep 3164 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3161, 3167 ]
+Rep 3164 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3161, 3167 ]
+Rep 3164 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3163, 3167 ]
+Rep 3165 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3163, 3167 ]
+Rep 3165 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3163, 3167 ]
+Rep 3165 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3163, 3167 ]
+Rep 3165 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3163, 3167 ]
+Rep 3165 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3163, 3167 ]
+Rep 3165 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3163, 3167 ]
+Rep 3165 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3163, 3167 ]
+Rep 3165 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3163, 3167 ]
+Rep 3165 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3163, 3167 ]
+Rep 3165 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3164, 3167 ]
+Rep 3165 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3164, 3167 ]
+Rep 3165 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3164, 3167 ]
+Rep 3165 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3164, 3167 ]
+Rep 3165 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3164, 3167 ]
+Rep 3165 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3164, 3167 ]
+Rep 3165 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3164, 3167 ]
+Rep 3165 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3164, 3167 ]
+Rep 3165 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3164, 3167 ]
+Rep 3165 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3164, 3167 ]
+Rep 3165 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3165, 3167 ]
+Rep 3166 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3165, 3167 ]
+Rep 3166 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3165, 3167 ]
+Rep 3166 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3165, 3167 ]
+Rep 3166 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3165, 3167 ]
+Rep 3166 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3165, 3167 ]
+Rep 3166 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3165, 3167 ]
+Rep 3166 / selfish: false / trusted: false / ConnNotifierStatus: -1
+[ 2, 1222, 1222 ]
+[ 1, 3165, 3167 ]
+Rep 3166 / selfish: false / trusted: false / ConnNotifierStatus: -1
+[ 2, 1222, 1222 ]
+[ 1, 3165, 3167 ]
+Rep 3166 / selfish: false / trusted: false / ConnNotifierStatus: -1
+[ 2, 1222, 1222 ]
+[ 1, 3165, 3167 ]
+Rep 3166 / selfish: false / trusted: false / ConnNotifierStatus: -1
+[ 2, 1222, 1222 ]
+[ 1, 3169, 3177 ]
+Rep 3173 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3169, 3177 ]
+Rep 3173 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3169, 3177 ]
+Rep 3173 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3169, 3177 ]
+Rep 3173 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3169, 3177 ]
+Rep 3173 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3169, 3177 ]
+Rep 3173 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3169, 3177 ]
+Rep 3173 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3169, 3177 ]
+Rep 3173 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3169, 3177 ]
+Rep 3173 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3169, 3177 ]
+Rep 3173 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3171, 3177 ]
+Rep 3174 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3171, 3177 ]
+Rep 3174 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3171, 3177 ]
+Rep 3174 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3171, 3177 ]
+Rep 3174 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3171, 3177 ]
+Rep 3174 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3171, 3177 ]
+Rep 3174 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3171, 3177 ]
+Rep 3174 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3171, 3177 ]
+Rep 3174 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3171, 3177 ]
+Rep 3174 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3171, 3177 ]
+Rep 3174 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3173, 3177 ]
+Rep 3175 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3173, 3177 ]
+Rep 3175 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3173, 3177 ]
+Rep 3175 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3173, 3177 ]
+Rep 3175 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3173, 3177 ]
+Rep 3175 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3173, 3177 ]
+Rep 3175 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3173, 3177 ]
+Rep 3175 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3173, 3177 ]
+Rep 3175 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3173, 3177 ]
+Rep 3175 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3173, 3177 ]
+Rep 3175 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3174, 3177 ]
+Rep 3175 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3174, 3177 ]
+Rep 3175 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3174, 3177 ]
+Rep 3175 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3174, 3177 ]
+Rep 3175 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3174, 3177 ]
+Rep 3175 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3174, 3177 ]
+Rep 3175 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3174, 3177 ]
+Rep 3175 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3174, 3177 ]
+Rep 3175 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3174, 3177 ]
+Rep 3175 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3174, 3177 ]
+Rep 3175 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3175, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3175, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3175, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3175, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3175, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3175, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3175, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3175, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3175, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3175, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3176, 3177 ]
+Rep 3176 / selfish: false / trusted: false / ConnNotifierStatus: -10
+[ 2, 1222, 1222 ]
+[ 1, 3206, 3277 ]
+Rep 3241 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3206, 3277 ]
+Rep 3241 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3206, 3277 ]
+Rep 3241 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3206, 3277 ]
+Rep 3241 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3206, 3277 ]
+Rep 3241 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3206, 3277 ]
+Rep 3241 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3206, 3277 ]
+Rep 3241 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3206, 3277 ]
+Rep 3241 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3206, 3277 ]
+Rep 3241 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3206, 3277 ]
+Rep 3241 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3227, 3277 ]
+Rep 3252 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3227, 3277 ]
+Rep 3252 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3227, 3277 ]
+Rep 3252 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3227, 3277 ]
+Rep 3252 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3227, 3277 ]
+Rep 3252 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3227, 3277 ]
+Rep 3252 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3227, 3277 ]
+Rep 3252 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3227, 3277 ]
+Rep 3252 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3227, 3277 ]
+Rep 3252 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3227, 3277 ]
+Rep 3252 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3242, 3277 ]
+Rep 3259 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3242, 3277 ]
+Rep 3259 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3242, 3277 ]
+Rep 3259 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3242, 3277 ]
+Rep 3259 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3242, 3277 ]
+Rep 3259 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3242, 3277 ]
+Rep 3259 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3242, 3277 ]
+Rep 3259 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3242, 3277 ]
+Rep 3259 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3242, 3277 ]
+Rep 3259 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3242, 3277 ]
+Rep 3259 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3252, 3277 ]
+Rep 3264 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3252, 3277 ]
+Rep 3264 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3252, 3277 ]
+Rep 3264 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3252, 3277 ]
+Rep 3264 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3252, 3277 ]
+Rep 3264 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3252, 3277 ]
+Rep 3264 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3252, 3277 ]
+Rep 3264 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3252, 3277 ]
+Rep 3264 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3252, 3277 ]
+Rep 3264 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3252, 3277 ]
+Rep 3264 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3259, 3277 ]
+Rep 3268 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3259, 3277 ]
+Rep 3268 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3259, 3277 ]
+Rep 3268 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3259, 3277 ]
+Rep 3268 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3259, 3277 ]
+Rep 3268 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3259, 3277 ]
+Rep 3268 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3259, 3277 ]
+Rep 3268 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3259, 3277 ]
+Rep 3268 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3259, 3277 ]
+Rep 3268 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3259, 3277 ]
+Rep 3268 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3264, 3277 ]
+Rep 3270 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3264, 3277 ]
+Rep 3270 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3264, 3277 ]
+Rep 3270 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3264, 3277 ]
+Rep 3270 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3264, 3277 ]
+Rep 3270 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3264, 3277 ]
+Rep 3270 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3264, 3277 ]
+Rep 3270 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3264, 3277 ]
+Rep 3270 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3268, 3277 ]
+Rep 3272 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3268, 3277 ]
+Rep 3272 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3268, 3277 ]
+Rep 3272 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3268, 3277 ]
+Rep 3272 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3268, 3277 ]
+Rep 3272 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3268, 3277 ]
+Rep 3272 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3268, 3277 ]
+Rep 3272 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3268, 3277 ]
+Rep 3272 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3268, 3277 ]
+Rep 3272 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3268, 3277 ]
+Rep 3272 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3271, 3277 ]
+Rep 3274 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3271, 3277 ]
+Rep 3274 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3271, 3277 ]
+Rep 3274 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3271, 3277 ]
+Rep 3274 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3271, 3277 ]
+Rep 3274 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3271, 3277 ]
+Rep 3274 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3271, 3277 ]
+Rep 3274 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3271, 3277 ]
+Rep 3274 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3271, 3277 ]
+Rep 3274 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3273, 3277 ]
+Rep 3275 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3273, 3277 ]
+Rep 3275 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3273, 3277 ]
+Rep 3275 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3273, 3277 ]
+Rep 3275 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3273, 3277 ]
+Rep 3275 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3273, 3277 ]
+Rep 3275 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3273, 3277 ]
+Rep 3275 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3273, 3277 ]
+Rep 3275 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3273, 3277 ]
+Rep 3275 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3273, 3277 ]
+Rep 3275 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3274, 3277 ]
+Rep 3275 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3274, 3277 ]
+Rep 3275 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3274, 3277 ]
+Rep 3275 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3274, 3277 ]
+Rep 3275 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3274, 3277 ]
+Rep 3275 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3274, 3277 ]
+Rep 3275 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3274, 3277 ]
+Rep 3275 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3274, 3277 ]
+Rep 3275 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3274, 3277 ]
+Rep 3275 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3274, 3277 ]
+Rep 3275 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3275, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3275, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3275, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3275, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3275, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3275, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3275, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3275, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3275, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3275, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0
+[ 2, 1222, 1222 ]
+[ 1, 3276, 3277 ]
+Rep 3276 / selfish: false / trusted: false / ConnNotifierStatus: 0

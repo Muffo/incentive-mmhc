@@ -1,0 +1,5 @@
+connectionStatusManager
+informationProvider
+localReputationManager
+reputationExchangeManager
+test.localReputationManager
