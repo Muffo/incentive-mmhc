@@ -17,7 +17,6 @@ public class StringTxServer implements Runnable {
 
 	public void run() {
 
-		// preparazione socket
 		ServerSocket serverSocket = null;
 
 		try {
@@ -114,8 +113,6 @@ public class StringTxServer implements Runnable {
 				clientSocket.close();
 			} // while (true)
 		}
-		// qui catturo le eccezioni non catturate all'interno del while
-		// in seguito alle quali il server termina l'esecuzione
 		catch (Exception e) {
 			e.printStackTrace();
 			// chiusura di stream e socket
@@ -123,6 +120,6 @@ public class StringTxServer implements Runnable {
 					.println("Errore irreversibile, PutFileServerSeq: termino...");
 			System.exit(3);
 		}
-	} // main
+	} // run
 
 }

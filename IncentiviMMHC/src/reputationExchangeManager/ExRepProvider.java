@@ -1,5 +1,5 @@
 package reputationExchangeManager;
 
-public class ReputationSender {
+public class ExRepProvider {
 
 }
