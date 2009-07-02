@@ -10,7 +10,7 @@ import java.net.Socket;
  * @author Andrea Grandi
  * @see RepReceiver
  */
-public class ExServer {
+public class ExServer implements Runnable{
 
 	public static final int serverPort = 54001;
 
@@ -21,7 +21,7 @@ public class ExServer {
 		try {
 			serverSocket = new ServerSocket(serverPort, 2);
 			serverSocket.setReuseAddress(true);
-			System.out.println("StringTxServer: avviato ");
+			System.out.println("ExServer: avviato ");
 			System.out.println("Creata la server socket: " + serverSocket);
 		} catch (Exception e) {
 			System.err.println("Problemi nella creazione della server socket: "

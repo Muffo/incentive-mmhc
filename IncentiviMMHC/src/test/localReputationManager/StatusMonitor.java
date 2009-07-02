@@ -3,6 +3,8 @@ package test.localReputationManager;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 import localReputationManager.RepCollection;
 import localReputationManager.RepProvider;
@@ -19,6 +21,7 @@ public class StatusMonitor implements Runnable {
 	}
 
 	public void run() {
+		System.out.println("Monitor: avviato ");
 		while (true) {
 			try {
 				Thread.sleep(1000);
@@ -33,9 +36,14 @@ public class StatusMonitor implements Runnable {
 	private void printStatus() {
 		BufferedWriter writer;
 		try {
+			Date todaysDate = new java.util.Date();
+			SimpleDateFormat formatter = new SimpleDateFormat(
+					"EEE, dd-MMM-yyyy HH:mm:ss");
+			String formattedDate = formatter.format(todaysDate);
+
 			writer = new BufferedWriter(new FileWriter("status.txt", true));
 
-			// writer.write("**********");
+			writer.write("**** " + formattedDate + " *****\n");
 			writer.write(_repCollection.toString() + "\n");
 			writer.write("Rep " + RepProvider.getAvgReputation(_nodeId)
 					+ " / selfish: " + RepProvider.isSelfishNode(_nodeId)
@@ -45,7 +53,7 @@ public class StatusMonitor implements Runnable {
 
 			writer.close();
 		} catch (IOException e) {
-			System.out.println("Errore scrittura sul file result.txt");
+			System.out.println("Errore scrittura sul file status.txt");
 			e.printStackTrace();
 		}
 	}

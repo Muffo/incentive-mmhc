@@ -2,6 +2,8 @@ package localReputationManager;
 
 import java.util.Enumeration;
 
+import reputationExchangeManager.RepReceived;
+
 import connectionStatusManager.ConnectionNotifier;
 
 import informationProvider.ParameterProvider;
@@ -31,7 +33,7 @@ public class RepUpdater implements Runnable {
 	/**
 	 * Intervallo in millisec tra gli aggiornamenti del valore HRep
 	 */
-	private static final long updateHistoricalDelay = 10000;
+	private static final long updateHistoricalDelay = 20000;
 
 	private int _updateCount = 0;
 	private int _updateHistoricalCountDelay;
@@ -61,8 +63,10 @@ public class RepUpdater implements Runnable {
 			_updateCount++;
 
 			if (_updateCount == _updateHistoricalCountDelay) {
+				UpdateReceived();
 				UpdateHistoricals();
 
+				_repCollection.SaveToFile();
 			}
 			if (_updateCount == _updateHistoricalCountDelay)
 				_updateCount = 0;
@@ -71,7 +75,7 @@ public class RepUpdater implements Runnable {
 
 	/**
 	 * Aggiorna i valori di CRep per tutti i nodi contenuti nella lista fornita
-	 * da CSM.
+	 * da CMS, in particolare da {@link ConnectionNotifier}.
 	 * 
 	 * @see ConnectionNotifier
 	 */
@@ -85,7 +89,7 @@ public class RepUpdater implements Runnable {
 	}
 
 	/**
-	 * Aggiorna i valori di HRep contenuti nella RepCollection
+	 * Aggiorna i valori di HRep contenuti in {@link RepCollection}
 	 * 
 	 * @see RepCollection
 	 */
@@ -94,6 +98,20 @@ public class RepUpdater implements Runnable {
 		while (nodeIds.hasMoreElements()) {
 			String nodeId = (String) nodeIds.nextElement();
 			UpdateHistoricalRep(nodeId);
+		}
+	}
+
+	/**
+	 * Aggiorna i valori di HRep sulla base dei dati ricevuti dai nodi remoti e
+	 * memorizzati in {@link RepReceived}
+	 * 
+	 */
+	private void UpdateReceived() {
+		Enumeration<String> nodeIds = RepReceived.getIdentifiers();
+		while (nodeIds.hasMoreElements()) {
+			String nodeId = (String) nodeIds.nextElement();
+			int rxReputation = RepReceived.getRxReputationOf(nodeId, true);
+			UpdateReceivedRep(nodeId, rxReputation);
 		}
 	}
 
@@ -141,7 +159,7 @@ public class RepUpdater implements Runnable {
 	 * 
 	 * @param nodeId
 	 *            identificativo del nodo
-	 *            
+	 * 
 	 * @see RepLevel
 	 * @see RepUpdater#Alpha
 	 */
@@ -152,8 +170,23 @@ public class RepUpdater implements Runnable {
 
 		hRep.setLevel((int) Math.round(Alpha * cRep.getLevel() + (1 - Alpha)
 				* hRep.getLevel()));
+		
+		cRep.setLevel(hRep.getLevel());
+	}
 
-		_repCollection.SaveToFile();
+	
+	private void UpdateReceivedRep(String nodeId, int rxReputation) {
+
+		if (!_repCollection.containsNode(nodeId)) {
+			_repCollection.AddNode(nodeId, new RepLevel(rxReputation),
+					new RepLevel(rxReputation));
+		} else {
+			RepLevel hRep = _repCollection.getHRep(nodeId);
+
+			hRep.setLevel((int) Math.round(hRep.getLevel() * 2 / 3
+					+ rxReputation / 3));
+		}
+
 	}
 
 }

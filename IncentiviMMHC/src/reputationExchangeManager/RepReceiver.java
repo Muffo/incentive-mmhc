@@ -9,6 +9,8 @@ import java.net.SocketTimeoutException;
 /**
  * Si occupa della ricezione dei valori di reputazione da un particolare nodo
  * remoto.
+ * La ricezione viene avviata da {@link ExServer}.
+ * I valori ricevuti vengono memorizzati in {@link RepReceived}
  * 
  * @author Andrea Grandi
  * @see ExServer
@@ -37,15 +39,22 @@ public class RepReceiver implements Runnable {
 			return;
 		}
 
-		String rxString = null;
-		String rxRemoteAddr = null;
-		int rxRemotePort = -1;
+		String rxNodeId = null;
+		int rxReputation = 0;
+		int rxConuter = 0;
 
 		try {
 			// ricezione dei dati sulla reputazione
-			rxRemoteAddr = inSock.readUTF();
-			rxRemotePort = inSock.readInt();
-			rxString = inSock.readUTF();
+			while (true) {
+				rxNodeId = inSock.readUTF();
+				if (rxNodeId.equalsIgnoreCase("end"))
+					break;
+				
+				rxReputation = inSock.readInt();
+				System.out.println("NodeId: " + rxNodeId + " / rep: " + rxReputation);
+				RepReceived.addRxReputation(rxNodeId, rxReputation);
+				rxConuter++;		
+			}
 		} catch (SocketTimeoutException ste) {
 			// System.out.println("Timeout scattato: ");
 			// ste.printStackTrace();
@@ -60,26 +69,13 @@ public class RepReceiver implements Runnable {
 
 		}
 
-		if (rxString == null || rxRemoteAddr == null || rxRemotePort < 0) {
-			System.out.println("Problemi nella ricezione della stringa");
-
-		} else {
-			System.out.println("Stringa ricevuta:" + rxString
-					+ ". Simulazione di Inoltro i dati a " + rxRemoteAddr + ":"
-					+ rxRemotePort);
-
-			// ********
-
-			if (true) {
-				try {
-					outSock.writeUTF("ok");
-				} catch (Exception e) {
-					System.out.println("Problemi nell'invio risposta");
-					e.printStackTrace();
-					closeSocket();
-					return;
-				}
-			}
+		try {
+			outSock.writeInt(rxConuter);
+		} catch (Exception e) {
+			// System.out.println("Problemi nell'invio risposta");
+			// e.printStackTrace();
+			closeSocket();
+			return;
 		}
 
 		closeSocket();
