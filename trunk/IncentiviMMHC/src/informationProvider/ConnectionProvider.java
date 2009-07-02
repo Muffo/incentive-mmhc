@@ -16,7 +16,7 @@ public class ConnectionProvider {
 	 * @return array di String contenete gli indirizzi IP
 	 */
 	public static String[] getSingleHopConnections() {
-		String result[] = { "192.168.0.1" };
+		String result[] = { "localhost" };
 		return result;
 	}
 

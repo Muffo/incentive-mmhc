@@ -86,9 +86,10 @@ public class RepSender {
 			return 0;
 		}
 
-		// trasmissione della stringa
 		try {
 			RepCollection repCollection = RepCollection.getInstance();
+			
+			Thread.sleep(500);
 
 			Enumeration keys = repCollection.getIdentifiers();
 
@@ -98,6 +99,8 @@ public class RepSender {
 
 				outSock.writeUTF(nodeId);
 				outSock.writeInt(hRep.getLevel());
+				
+				System.out.println("NodeId: " + nodeId + " / rep: " + hRep.getLevel());
 			}
 
 			outSock.writeUTF("end");
@@ -111,6 +114,7 @@ public class RepSender {
 		// ricezione risultato
 		try {
 			result = inSock.readInt();
+			System.out.println("Risultato: " + result);
 		} catch (SocketTimeoutException ste) {
 			localSocket.close();
 			// ste.printStackTrace();

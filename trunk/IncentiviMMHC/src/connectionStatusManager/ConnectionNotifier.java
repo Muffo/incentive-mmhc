@@ -22,7 +22,7 @@ public class ConnectionNotifier {
 	 *            risultato della connessione: true per successo, false per
 	 *            fallimento
 	 */
-	public static void notifyResult(String nodeId, boolean success) {
+	public synchronized static void notifyResult(String nodeId, boolean success) {
 
 		Integer value;
 
@@ -49,7 +49,7 @@ public class ConnectionNotifier {
 	 * @param nodeId	identificativo del nodo
 	 * @return	differenza tra il numero di successi e fallimenti
 	 */
-	public static int getStatusOf(String nodeId) {
+	public synchronized static int getStatusOf(String nodeId) {
 
 		if (!_status.containsKey(nodeId))
 			return 0;
@@ -65,7 +65,7 @@ public class ConnectionNotifier {
 	 * @param reset		se true resetta il contatore associato al nodo.
 	 * @return			differenza tra il numero di successi e fallimenti
 	 */
-	public static int getStatusOf(String nodeId, boolean reset) {
+	public synchronized static int getStatusOf(String nodeId, boolean reset) {
 		int result = getStatusOf(nodeId);
 
 		if (reset)
@@ -80,7 +80,7 @@ public class ConnectionNotifier {
 	 * @return Enumerativo composto da stringhe contenenti i nodeId
 	 */
 	@SuppressWarnings("unchecked")
-	public static Enumeration getIdentifiers() {
+	public synchronized static Enumeration getIdentifiers() {
 		return _status.keys();
 	}
 

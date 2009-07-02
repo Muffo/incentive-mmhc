@@ -46,7 +46,7 @@ public class RepCollection {
 	 * 
 	 * @return istanza di RepCollection
 	 */
-	public static RepCollection getInstance() {
+	public synchronized static RepCollection getInstance() {
 		return _instance;
 	}
 
@@ -57,7 +57,7 @@ public class RepCollection {
 	 *            identificativo del nodo
 	 * @return true se il nodo è presente, false altrimenti
 	 */
-	public boolean containsNode(String nodeId) {
+	public synchronized boolean containsNode(String nodeId) {
 		return (_hReputations.containsKey(nodeId));
 	}
 
@@ -66,7 +66,7 @@ public class RepCollection {
 	 * 
 	 * @return Enumerativo contenente tutti gli identificatori dei nodi
 	 */
-	public Enumeration getIdentifiers() {
+	public synchronized Enumeration getIdentifiers() {
 		return _hReputations.keys();
 	}
 
@@ -78,7 +78,7 @@ public class RepCollection {
 	 * @return RepLevel associato al valore di HRep del nodo
 	 * @see RepLevel
 	 */
-	public RepLevel getHRep(String nodeId) {
+	public synchronized RepLevel getHRep(String nodeId) {
 		if (!_hReputations.containsKey(nodeId))
 			throw new IllegalArgumentException(
 					"!_hReputations.containsKey(nodeId)");
@@ -94,7 +94,7 @@ public class RepCollection {
 	 * @return RepLevel associato al valore di CRep del nodo
 	 * @see RepLevel
 	 */
-	public RepLevel getCRep(String nodeId) {
+	public synchronized RepLevel getCRep(String nodeId) {
 		if (!_cReputations.containsKey(nodeId))
 			throw new IllegalArgumentException(
 					"!_cReputations.containsKey(nodeId)");
