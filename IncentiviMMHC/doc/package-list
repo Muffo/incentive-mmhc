@@ -3,3 +3,6 @@ informationProvider
 localReputationManager
 reputationExchangeManager
 test.localReputationManager
+test.multipleNode
+test.reputationExchangeManager
+test.support

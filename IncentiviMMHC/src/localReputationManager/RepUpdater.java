@@ -17,8 +17,8 @@ import informationProvider.ParameterProvider;
  */
 public class RepUpdater implements Runnable {
 
-	private static final int RepInc = 4;
-	private static final int RepDec = 2;
+	private static final int RepInc = 40;
+	private static final int RepDec = 20;
 
 	/**
 	 * Valore Alpha per l'aggiornamento di HRep
@@ -33,7 +33,7 @@ public class RepUpdater implements Runnable {
 	/**
 	 * Intervallo in millisec tra gli aggiornamenti del valore HRep
 	 */
-	private static final long updateHistoricalDelay = 20000;
+	private static final long updateHistoricalDelay = 30000;
 
 	private int _updateCount = 0;
 	private int _updateHistoricalCountDelay;
@@ -135,6 +135,7 @@ public class RepUpdater implements Runnable {
 		RepLevel cRep = _repCollection.getCRep(nodeId);
 
 		if (status < 0) {
+			// punishment  negativo, quindi va sommato alla fine
 			int punishment = RepDec * status;
 
 			if (!ParameterProvider.getET(nodeId).isOverloaded())
@@ -143,7 +144,7 @@ public class RepUpdater implements Runnable {
 			if (!ParameterProvider.getNBL(nodeId).isExhausted())
 				punishment += 2 * RepDec * status;
 
-			cRep.setLevel(cRep.getLevel() - punishment);
+			cRep.setLevel(cRep.getLevel() + punishment);
 
 		} else if (status > 0) {
 			int reward = RepInc * status;
@@ -170,11 +171,19 @@ public class RepUpdater implements Runnable {
 
 		hRep.setLevel((int) Math.round(Alpha * cRep.getLevel() + (1 - Alpha)
 				* hRep.getLevel()));
-		
+
 		cRep.setLevel(hRep.getLevel());
 	}
 
-	
+	/**
+	 * Aggiorna il valore di HRep per un particolare nodo in base al valore
+	 * ricevuto da un nodo remoto
+	 * 
+	 * @param nodeId
+	 *            identificativo del nodo
+	 * @param rxReputation
+	 *            livello di reputazione ricevuto dal nodo remoto
+	 */
 	private void UpdateReceivedRep(String nodeId, int rxReputation) {
 
 		if (!_repCollection.containsNode(nodeId)) {
