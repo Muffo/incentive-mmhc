@@ -10,8 +10,6 @@ import java.util.Enumeration;
 
 import com.sun.org.apache.xalan.internal.xsltc.runtime.Hashtable;
 
-import connectionStatusManager.ConnectionNotifier;
-
 /**
  * Collezione di RepLevel associati ai nodi remoti.
  * 
@@ -23,22 +21,21 @@ public class RepCollection {
 	// private Dictionary<String, RepLevel> _hReputations;
 
 	/**
-	 * Nome del file sul quale viene effettuata la persistenza dei valori di HRep
+	 * Nome del file sul quale viene effettuata la persistenza dei valori di
+	 * HRep
 	 */
-	private static final String fileName = "reputation.txt";
+	private static final String defaultFileName = "reputation.txt";
 
 	private static RepCollection _instance = new RepCollection();
 
 	private Hashtable _cReputations;
 	private Hashtable _hReputations;
 
+	private String _fileName = null;
+
 	private RepCollection() {
 		_cReputations = new Hashtable();
 		_hReputations = new Hashtable();
-
-		LoadFromFile();
-
-		System.out.println(this);
 	}
 
 	/**
@@ -48,6 +45,17 @@ public class RepCollection {
 	 */
 	public synchronized static RepCollection getInstance() {
 		return _instance;
+	}
+
+	/**
+	 * Setta il nome del file sul quale sarˆ effettuata la persistenza dei
+	 * valori di reputazione
+	 * 
+	 * @param fileName
+	 *            nome del file
+	 */
+	public void setSaveFileName(String fileName) {
+		_fileName = fileName;
 	}
 
 	/**
@@ -119,8 +127,10 @@ public class RepCollection {
 	/**
 	 * Aggiunge un nuovo nodo alla lista.
 	 * 
-	 * @param nodeId	identificativo del nuovo nodo
-	 * @param hRep	valore di 
+	 * @param nodeId
+	 *            identificativo del nuovo nodo
+	 * @param hRep
+	 *            valore di
 	 * @param cRep
 	 * @see RepLevel
 	 */
@@ -159,13 +169,17 @@ public class RepCollection {
 	}
 
 	/**
-	 * Carica la lista contentente la reputazione dal file di default
+	 * Carica la lista contentente la reputazione dal file di default o da
+	 * quello specificato attraverso
+	 * {@link RepCollection#setSaveFileName(String)}
 	 */
-	private void LoadFromFile() {
+	public void LoadFromFile() {
 		BufferedReader reader;
+		String fileName = (_fileName == null) ? defaultFileName : _fileName;
 		try {
 			reader = new BufferedReader(new FileReader(fileName));
 		} catch (FileNotFoundException e1) {
+			System.out.println("Impossibile aprire il file");
 			return;
 		}
 
@@ -179,15 +193,22 @@ public class RepCollection {
 				AddNode(nodeId, hRep, cRep);
 			}
 		} catch (IOException e) {
+			System.out.println("Impossibile leggere il file");
 			return;
 		}
+
+		System.out.println("Caricati dati dal file: " + fileName);
+		System.out.println(this);
 	}
 
 	/**
-	 * Salva la lista contenente la reputazione sul file di default.
+	 * Salva la lista contenente la reputazione sul file di default o su quello
+	 * specificato attraverso {@link RepCollection#setSaveFileName(String)}
 	 */
 	public void SaveToFile() {
 		BufferedWriter writer;
+		String fileName = (_fileName == null) ? defaultFileName : _fileName;
+
 		try {
 			writer = new BufferedWriter(new FileWriter(fileName, false));
 

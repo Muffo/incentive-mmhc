@@ -1,4 +1,4 @@
-package test.localReputationManager;
+package test.support;
 
 import java.io.*;
 import java.net.*;

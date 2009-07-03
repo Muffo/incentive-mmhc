@@ -4,7 +4,7 @@
 package localReputationManager;
 
 /**
- * Mantiene le informazioni su un livello di reputazione
+ * Mantiene le informazioni su un singolo livello di reputazione.
  * 
  * @author Andrea Grandi
  */
@@ -35,12 +35,24 @@ public class RepLevel implements Comparable<RepLevel> {
 	 */
 	private static final int DefaultRep = 3000;
 
+	/**
+	 * Livello di reputazione corrente
+	 */
 	private int _level;
 
+	/**
+	 * Costruttore con livello di reputazione di default
+	 */
 	public RepLevel() {
 		this(DefaultRep);
 	}
 
+	/**
+	 * Costruttore con livello di reputazione esplicito
+	 * 
+	 * @param level
+	 *            livello di reputazione
+	 */
 	public RepLevel(int level) {
 		setLevel(level);
 	}

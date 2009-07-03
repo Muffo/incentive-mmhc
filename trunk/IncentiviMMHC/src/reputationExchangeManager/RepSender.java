@@ -46,9 +46,10 @@ public class RepSender {
 	}
 
 	/**
-	 * Invia tutti i livelli HRep presenti in RepCollection al
+	 * Invia tutti i livelli HRep presenti in RepCollection al nodo specificato
+	 * in {@link RepSender#setDestAddr(String, int)}
 	 * 
-	 * @return
+	 * @return il numero di livelli ricevuti correttamente dal nodo remoto
 	 * @throws IOException
 	 */
 	public int SendRepData() throws IOException {
@@ -88,7 +89,7 @@ public class RepSender {
 
 		try {
 			RepCollection repCollection = RepCollection.getInstance();
-			
+
 			Thread.sleep(500);
 
 			Enumeration keys = repCollection.getIdentifiers();
@@ -99,8 +100,9 @@ public class RepSender {
 
 				outSock.writeUTF(nodeId);
 				outSock.writeInt(hRep.getLevel());
-				
-				System.out.println("NodeId: " + nodeId + " / rep: " + hRep.getLevel());
+
+				System.out.println("NodeId: " + nodeId + " / rep: "
+						+ hRep.getLevel());
 			}
 
 			outSock.writeUTF("end");

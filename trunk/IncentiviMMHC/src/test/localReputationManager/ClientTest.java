@@ -1,6 +1,9 @@
 package test.localReputationManager;
 
 import java.net.UnknownHostException;
+
+import test.support.StatusMonitor;
+import test.support.StringTxClient;
 import localReputationManager.RepCollection;
 import localReputationManager.RepUpdater;
 
@@ -21,7 +24,7 @@ public class ClientTest {
 		Thread strTxThread = new Thread(strTx, "strTx");
 		strTxThread.start();
 
-		StatusMonitor statusMonitor = new StatusMonitor(repCollection, idTest);
+		StatusMonitor statusMonitor = new StatusMonitor(repCollection);
 		Thread statusMonitorThread = new Thread(statusMonitor, "statusMonitor");
 		statusMonitorThread.start();
 

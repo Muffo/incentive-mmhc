@@ -1,5 +1,7 @@
 package test.localReputationManager;
 
+import test.support.StringTxServer;
+
 
 public class ServerTest {
 

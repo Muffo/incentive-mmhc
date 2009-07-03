@@ -3,7 +3,6 @@ package reputationExchangeManager;
 import java.io.IOException;
 
 import informationProvider.ConnectionProvider;
-import informationProvider.ParameterProvider;
 
 /**
  * Avvia periodicamente la trasmissione dei dati sulla reputazione ai nodi

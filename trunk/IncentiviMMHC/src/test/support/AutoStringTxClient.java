@@ -1,20 +1,21 @@
-package test.localReputationManager;
+package test.support;
 
 import java.net.*;
 import java.io.*;
 
 import connectionStatusManager.ConnectionNotifier;
 
-public class StringTxClient implements Runnable {
+public class AutoStringTxClient implements Runnable {
 
+	private static final int txDelay = 1000;
 	private String _remoteAddr = null;
 	private int _remotePort = -1;
 
 	private InetAddress _relayAddr = null;
 	private int _relayPort = -1;
 
-	public StringTxClient(String relayAddr, int relayPort, String remoteAddr,
-			int remotePort) throws UnknownHostException {
+	public AutoStringTxClient(String relayAddr, int relayPort,
+			String remoteAddr, int remotePort) throws UnknownHostException {
 		_remoteAddr = remoteAddr;
 		_remotePort = remotePort;
 
@@ -26,53 +27,19 @@ public class StringTxClient implements Runnable {
 
 		try {
 
-			// gestione input da console dell'utente
-			BufferedReader stdIn = new BufferedReader(new InputStreamReader(
-					System.in));
-			String txString = null;
-			System.out.println("Inserisci uno dei seguenti comandi: ");
-			System.out.println("[Stringa] - testo da trasmettere");
-			System.out.println("[int] - numero ripetizioni");
-			System.out.println("exit - esci");
-			
+			while (true) {
 
-			System.out.print("Comando: ");
+				String result = sendString("pippo");
 
-			while ((txString = stdIn.readLine()) != null) {
+				System.out.println("Risultato: " + result);
+				if (result.equalsIgnoreCase("ok"))
+					ConnectionNotifier.notifyResult("3", true);
+				else
+					ConnectionNotifier.notifyResult("3", false);
 
-				if (txString.equalsIgnoreCase("exit")) {
-					System.out.print("Ricevuto \"exit\":  esco");
-					return;
-				}
-
-				int repeat = 0;
-
-				try {
-					repeat = Integer.parseInt(txString);
-
-					for (int i = 0; i < repeat; i++) {
-						String result = sendString("pippo");
-
-						System.out.println("Risultato: " + result);
-						if (result.equalsIgnoreCase("ok"))
-							ConnectionNotifier.notifyResult("1", true);
-						else
-							ConnectionNotifier.notifyResult("1", false);
-					}
-				} catch (NumberFormatException e) {
-					String result = sendString(txString);
-
-					System.out.println("Risultato: " + result);
-					if (result.equalsIgnoreCase("ok"))
-						ConnectionNotifier.notifyResult("1", true);
-					else
-						ConnectionNotifier.notifyResult("1", false);
-				}
-
-				System.out.print("Comando: ");
+				Thread.sleep(txDelay);
 
 			}// while
-			System.out.println("Termino...");
 		} catch (Exception e) {
 			System.err.println("Errore irreversibile, il seguente: ");
 			e.printStackTrace();
@@ -93,8 +60,7 @@ public class StringTxClient implements Runnable {
 
 		// creazione socket
 		try {
-			relaySocketAddress = new InetSocketAddress(_relayAddr,
-			 _relayPort);
+			relaySocketAddress = new InetSocketAddress(_relayAddr, _relayPort);
 
 			localSocket = new Socket();
 
