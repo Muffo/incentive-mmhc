@@ -1,5 +1,7 @@
 package reputationExchangeManager;
 
+import informationProvider.NodeIdProvider;
+
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
@@ -87,10 +89,13 @@ public class RepSender {
 			return 0;
 		}
 
+		// invio dati su reputazione
 		try {
 			RepCollection repCollection = RepCollection.getInstance();
 
-			Thread.sleep(500);
+			//Thread.sleep(500);
+			
+			outSock.writeUTF(NodeIdProvider.getNodeId());
 
 			Enumeration keys = repCollection.getIdentifiers();
 

@@ -6,11 +6,12 @@ import java.io.IOException;
 import java.net.Socket;
 import java.net.SocketTimeoutException;
 
+import localReputationManager.RepProvider;
+
 /**
  * Si occupa della ricezione dei valori di reputazione da un particolare nodo
- * remoto.
- * La ricezione viene avviata da {@link ExServer}.
- * I valori ricevuti vengono memorizzati in {@link RepReceived}
+ * remoto. La ricezione viene avviata da {@link ExServer}. I valori ricevuti
+ * vengono memorizzati in {@link RepReceived}
  * 
  * @author Andrea Grandi
  * @see ExServer
@@ -39,21 +40,29 @@ public class RepReceiver implements Runnable {
 			return;
 		}
 
+		String senderNodeId = null;
 		String rxNodeId = null;
 		int rxReputation = 0;
 		int rxConuter = 0;
+		boolean isTrusted = false;
 
 		try {
 			// ricezione dei dati sulla reputazione
+			senderNodeId = inSock.readUTF();
+
+			isTrusted = RepProvider.isTrustedNode(senderNodeId);
+
 			while (true) {
 				rxNodeId = inSock.readUTF();
 				if (rxNodeId.equalsIgnoreCase("end"))
 					break;
-				
+
 				rxReputation = inSock.readInt();
-				System.out.println("NodeId: " + rxNodeId + " / rep: " + rxReputation);
-				RepReceived.addRxReputation(rxNodeId, rxReputation);
-				rxConuter++;		
+				System.out.println("NodeId: " + rxNodeId + " / rep: "
+						+ rxReputation);
+				if (isTrusted)
+					RepReceived.addRxReputation(rxNodeId, rxReputation);
+				rxConuter++;
 			}
 		} catch (SocketTimeoutException ste) {
 			// System.out.println("Timeout scattato: ");
