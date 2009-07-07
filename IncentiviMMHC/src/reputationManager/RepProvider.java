@@ -1,4 +1,4 @@
-package localReputationManager;
+package reputationManager;
 
 /**
  * Fornisce al middleware le informazioni sulla reputazione dei nodi

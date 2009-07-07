@@ -2,10 +2,9 @@ package test.multipleNode;
 
 import java.net.UnknownHostException;
 
-import localReputationManager.RepCollection;
-import localReputationManager.RepUpdater;
 import reputationExchangeManager.ExClient;
-import reputationExchangeManager.ExServer;
+import reputationManager.RepCollection;
+import reputationManager.RepUpdater;
 import test.support.AutoStringTxClient;
 import test.support.StatusMonitor;
 
@@ -14,7 +13,7 @@ public class NodeB {
 	public static void main(String[] args) throws UnknownHostException {
 
 		RepCollection repCollection = RepCollection.getInstance();
-		repCollection.setSaveFileName("reputationA.txt");
+		repCollection.setSaveFileName("reputationB.txt");
 		repCollection.LoadFromFile();
 
 		RepUpdater repUpdater = new RepUpdater();

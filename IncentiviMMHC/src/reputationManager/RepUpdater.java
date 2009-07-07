@@ -1,4 +1,4 @@
-package localReputationManager;
+package reputationManager;
 
 import java.util.Enumeration;
 
@@ -17,13 +17,13 @@ import informationProvider.ParameterProvider;
  */
 public class RepUpdater implements Runnable {
 
-	private static final int RepInc = 40;
-	private static final int RepDec = 20;
+	private static final int RepInc = 10;
+	private static final int RepDec = 10;
 
 	/**
 	 * Valore Alpha per l'aggiornamento di HRep
 	 */
-	private static final double Alpha = 0.3;
+	private static final double Alpha = 0.7;
 
 	/**
 	 * Intervallo in millisec tra gli aggiornamenti del valore CRep
@@ -136,7 +136,7 @@ public class RepUpdater implements Runnable {
 
 		if (status < 0) {
 			// punishment  negativo, quindi va sommato alla fine
-			int punishment = RepDec * status;
+			int punishment = 0;
 
 			if (!ParameterProvider.getET(nodeId).isOverloaded())
 				punishment += 2 * RepDec * status;
@@ -147,7 +147,7 @@ public class RepUpdater implements Runnable {
 			cRep.setLevel(cRep.getLevel() + punishment);
 
 		} else if (status > 0) {
-			int reward = RepInc * status;
+			int reward = 2 * RepInc * status;
 			cRep.setLevel(cRep.getLevel() + reward);
 		}
 
@@ -171,6 +171,10 @@ public class RepUpdater implements Runnable {
 
 		hRep.setLevel((int) Math.round(Alpha * cRep.getLevel() + (1 - Alpha)
 				* hRep.getLevel()));
+		
+		// redenzione
+		if (hRep.isLowRep())
+			hRep.setLevel((int) Math.round(10 + hRep.getLevel()));
 
 		cRep.setLevel(hRep.getLevel());
 	}

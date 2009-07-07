@@ -2,9 +2,9 @@ package test.reputationExchangeManager;
 
 import java.net.UnknownHostException;
 
-import localReputationManager.RepCollection;
-import localReputationManager.RepUpdater;
 import reputationExchangeManager.ExClient;
+import reputationManager.RepCollection;
+import reputationManager.RepUpdater;
 
 public class ClientTest {
 

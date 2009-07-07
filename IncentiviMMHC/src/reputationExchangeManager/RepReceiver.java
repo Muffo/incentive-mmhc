@@ -6,7 +6,8 @@ import java.io.IOException;
 import java.net.Socket;
 import java.net.SocketTimeoutException;
 
-import localReputationManager.RepProvider;
+import reputationManager.RepProvider;
+
 
 /**
  * Si occupa della ricezione dei valori di reputazione da un particolare nodo

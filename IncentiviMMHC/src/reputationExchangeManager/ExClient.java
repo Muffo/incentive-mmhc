@@ -17,7 +17,7 @@ public class ExClient implements Runnable {
 	/**
 	 * Tempo il millisec tra due trasmissioni della reputazione
 	 */
-	private final static int txDelay = 20000;
+	private final static int txDelay = 35000;
 
 	public void run() {
 

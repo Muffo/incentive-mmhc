@@ -2,10 +2,10 @@ package test.localReputationManager;
 
 import java.net.UnknownHostException;
 
+import reputationManager.RepCollection;
+import reputationManager.RepUpdater;
 import test.support.StatusMonitor;
 import test.support.StringTxClient;
-import localReputationManager.RepCollection;
-import localReputationManager.RepUpdater;
 
 public class ClientTest {
 
