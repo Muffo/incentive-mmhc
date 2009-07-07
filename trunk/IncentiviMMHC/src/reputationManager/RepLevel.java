@@ -1,7 +1,7 @@
 /**
  * local
  */
-package localReputationManager;
+package reputationManager;
 
 /**
  * Mantiene le informazioni su un singolo livello di reputazione.
@@ -13,7 +13,7 @@ public class RepLevel implements Comparable<RepLevel> {
 	/**
 	 * Livello di reputazione massimo
 	 */
-	private static final int MaxRep = 6000;
+	private static final int MaxRep = 1000;
 
 	/**
 	 * Livello di reputazione minimo
@@ -23,17 +23,17 @@ public class RepLevel implements Comparable<RepLevel> {
 	/**
 	 * Soglia dell'intervallo LowRep
 	 */
-	private static final int LowRepThreshold = 2000;
+	private static final int LowRepThreshold = 330;
 
 	/**
 	 * Soglia dell'intervallo HighRep
 	 */
-	private static final int HighRepThreshold = 4000;
+	private static final int HighRepThreshold = 660;
 
 	/**
 	 * Valore di default iniziale per nodi non conosciuti
 	 */
-	private static final int DefaultRep = 3000;
+	private static final int DefaultRep = 500;
 
 	/**
 	 * Livello di reputazione corrente

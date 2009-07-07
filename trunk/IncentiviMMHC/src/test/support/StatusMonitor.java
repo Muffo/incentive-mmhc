@@ -7,9 +7,10 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Enumeration;
 
-import localReputationManager.RepCollection;
-import localReputationManager.RepLevel;
-import localReputationManager.RepProvider;
+import reputationManager.RepCollection;
+import reputationManager.RepLevel;
+import reputationManager.RepProvider;
+
 import connectionStatusManager.ConnectionNotifier;
 
 /**

@@ -12,8 +12,9 @@ import java.net.SocketTimeoutException;
 import java.net.UnknownHostException;
 import java.util.Enumeration;
 
-import localReputationManager.RepCollection;
-import localReputationManager.RepLevel;
+import reputationManager.RepCollection;
+import reputationManager.RepLevel;
+
 
 /**
  * Invia la reputazione ad un nodo gestendo la comunicazione

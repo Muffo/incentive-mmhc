@@ -7,7 +7,7 @@ import connectionStatusManager.ConnectionNotifier;
 
 public class AutoStringTxClient implements Runnable {
 
-	private static final int txDelay = 1000;
+	private static final int txDelay = 7000;
 	private String _remoteAddr = null;
 	private int _remotePort = -1;
 

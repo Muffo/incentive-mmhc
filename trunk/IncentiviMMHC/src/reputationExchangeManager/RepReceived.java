@@ -2,7 +2,8 @@ package reputationExchangeManager;
 
 import java.util.Enumeration;
 
-import localReputationManager.RepUpdater;
+import reputationManager.RepUpdater;
+
 
 import com.sun.org.apache.xalan.internal.xsltc.runtime.Hashtable;
 
