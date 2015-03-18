@@ -1,0 +1,1 @@
+Lightweight and local reputation-based incentive mechanism for Middleware MMHC.
